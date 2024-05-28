@@ -21,14 +21,6 @@ To get started with StudyTimerCosmos, follow these simple steps:
    ```bash
    cd StudyTimerCosmos
    ```
-3. Install the required dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the application:
-   ```bash
-   npm start
-   ```
 
 ## Usage
 
